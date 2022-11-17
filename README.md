@@ -9,8 +9,8 @@ Lesson 4 - ✅
 Lesson 5 - ✅  
 --------Finish section 1✔️
 
-Lesson 6  
-Lesson 7  
+Lesson 6 - ✅  
+Lesson 7 - ✅  
 Lesson 8  
 Lesson 9  
 Lesson 10  
