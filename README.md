@@ -1,12 +1,14 @@
-# The-complete-javascript-course  
+# The-complete-javascript-course
 
-## Started course 11.17.2022  
+## Started course 11.17.2022
 
 Lesson 1 - ✅   
 Lesson 2 - ✅  
 Lesson 3 - ✅  
 Lesson 4 - ✅  
 Lesson 5 - ✅  
+--------Finish section 1✔️
+
 Lesson 6  
 Lesson 7  
 Lesson 8  
