@@ -1,4 +1,4 @@
-let js = 'amazing';
+/*let js = 'amazing';
 
 console.log('Aston');//string
 console.log(23)//number
@@ -10,6 +10,21 @@ console.log(firstName);
 
 let _anton = 'Anton';
 let $Anton = 'Anton';
-const PI = 3.1415;
+const PI = 3.1415;  */
+
+/*
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+console.log(typeof true);
+console.log(typeof 'hello')
+console.log(typeof 12)
+
+javascriptIsFun = 'Aston';
+
+let hello; //undefined
+console.log(typeof  hello);
+
+console.log(typeof null);
+*/
 
 
