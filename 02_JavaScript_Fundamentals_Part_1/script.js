@@ -97,3 +97,22 @@ console.log(`Hello
 new
 string`);
 */
+
+// <------------------------------If conditions
+const age = 15;
+
+if (age >= 18) {
+    console.log('Sarah can start driver licence🚗');
+} else {
+    const yearsLeft = 18 - age;
+    console.log(`Sarah is too young. She should wait ${yearsLeft} years`);
+}
+
+let centery;
+const birthYear = 1991;
+if (birthYear <= 2000) {
+    centery = 20;
+} else {
+    centery = 21;
+}
+console.log(centery)
