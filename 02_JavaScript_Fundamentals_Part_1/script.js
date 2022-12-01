@@ -61,3 +61,14 @@ console.log(x)
 
 console.log(myAge >= sarahAge);
 let isFullAge = sarahAge >= 18;*/
+
+// <------------------------------ Operator Precedence
+/*
+const now = 2023;
+const myAge = now - 1989;
+const sarahAge = now - 1996;
+
+console.log(now - 1991 > now - 2006);
+let x, y;
+x = y = 10 - 5;
+console.log(x, y)*/
