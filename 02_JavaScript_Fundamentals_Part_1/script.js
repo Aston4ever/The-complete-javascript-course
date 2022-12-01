@@ -35,3 +35,29 @@ const birthYear = 1990;
 // birthYear = 1991;
 
 var age1 = 19;*/
+
+
+// <------------------------------Operators
+/*const now = 2023;
+const myAge = now - 1989;
+const sarahAge = now - 1996;
+console.log(myAge, sarahAge);
+console.log(myAge * 2, sarahAge / 2, 2 ** 3);
+const firstName = 'Aston';
+const lastName = 'Star';
+
+console.log(firstName + ' ' + lastName);
+let x = 10 + 5;
+x += 10;
+x *= 2;
+x /= 3;
+x -= 2;
+
+x--
+x++
+--x
+++x
+console.log(x)
+
+console.log(myAge >= sarahAge);
+let isFullAge = sarahAge >= 18;*/
