@@ -1,4 +1,5 @@
-/*let js = 'amazing';
+/*
+let js = 'amazing';
 
 console.log('Aston');//string
 console.log(23)//number
@@ -10,7 +11,8 @@ console.log(firstName);
 
 let _anton = 'Anton';
 let $Anton = 'Anton';
-const PI = 3.1415;  */
+const PI = 3.1415;
+*/
 
 /*
 let javascriptIsFun = true;
@@ -27,18 +29,20 @@ console.log(typeof  hello);
 console.log(typeof null);
 */
 
-
-/*let age = 14;
+// <------------------------------const let var
+/*
+let age = 14;
 age =15;
 
 const birthYear = 1990;
 // birthYear = 1991;
 
-var age1 = 19;*/
-
+var age1 = 19;
+*/
 
 // <------------------------------Operators
-/*const now = 2023;
+/*
+const now = 2023;
 const myAge = now - 1989;
 const sarahAge = now - 1996;
 console.log(myAge, sarahAge);
@@ -60,7 +64,8 @@ x++
 console.log(x)
 
 console.log(myAge >= sarahAge);
-let isFullAge = sarahAge >= 18;*/
+let isFullAge = sarahAge >= 18;
+*/
 
 // <------------------------------ Operator Precedence
 /*
@@ -71,4 +76,24 @@ const sarahAge = now - 1996;
 console.log(now - 1991 > now - 2006);
 let x, y;
 x = y = 10 - 5;
-console.log(x, y)*/
+console.log(x, y)
+*/
+
+// <------------------------------ Strings
+/*
+const firstName = 'Aston';
+const job = 'developer';
+const birthYear = 1989;
+const year = 2023;
+
+const me = "I'm " + firstName + ', a ' + (year - birthYear) + ' years old ' + job;
+console.log(me);
+
+const meNew = `I'm ${firstName}, a ${year - birthYear} years old ${job}`;
+console.log(meNew);
+
+console.log(`just a regular string...`);
+console.log(`Hello
+new
+string`);
+*/
