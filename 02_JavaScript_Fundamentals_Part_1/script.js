@@ -28,3 +28,10 @@ console.log(typeof null);
 */
 
 
+/*let age = 14;
+age =15;
+
+const birthYear = 1990;
+// birthYear = 1991;
+
+var age1 = 19;*/
