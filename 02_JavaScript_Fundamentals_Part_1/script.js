@@ -99,6 +99,7 @@ string`);
 */
 
 // <------------------------------If conditions
+/*
 const age = 15;
 
 if (age >= 18) {
@@ -115,4 +116,24 @@ if (birthYear <= 2000) {
 } else {
     centery = 21;
 }
-console.log(centery)
+console.log(centery);
+*/
+
+// <------------------------------Conversion and Coercion
+/*
+//type conversion
+const inputYear = '1991';
+console.log(Number(inputYear));
+console.log(inputYear + 18);
+
+console.log(Number('Aston')); //NaN
+console.log(typeof NaN);// Number
+console.log(String(23));// '23'
+
+//type coercion
+console.log('I am ' + 33 + ' years old') //coercion
+console.log('23' - '10'); // 10
+let n = '1' + 1;
+n = n + 1;
+console.log(n)// 12
+*/
