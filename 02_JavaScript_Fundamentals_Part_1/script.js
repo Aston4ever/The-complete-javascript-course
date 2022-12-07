@@ -139,7 +139,7 @@ console.log(n)// 12
 */
 
 // <------------------------------Booleann
-
+/*
 // "", 0, NaN, null, undefined
 console.log(Boolean(0))
 console.log(Boolean('Hello'))
@@ -153,3 +153,25 @@ if (money) {
 } else  {
     console.log('Get a job')
 }
+*/
+
+// <------------------------------Equality operators
+
+/*
+const age = "18";
+if (age === 18) console.log('You are adult'); //false
+if (age == 18) console.log('You are adult'); //true
+
+const favourite = Number(prompt('Enter your age', 23));
+console.log(favourite)
+console.log(typeof favourite)
+if (favourite === 23) {
+    console.log("Cool number 23")
+} else if (favourite === 7) {
+    console.log('7 is good number too')
+}
+
+if (favourite !== 23) {
+    console.log('Number is not 23')
+}
+*/
