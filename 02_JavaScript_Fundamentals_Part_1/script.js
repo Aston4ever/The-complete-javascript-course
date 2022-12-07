@@ -137,3 +137,19 @@ let n = '1' + 1;
 n = n + 1;
 console.log(n)// 12
 */
+
+// <------------------------------Booleann
+
+// "", 0, NaN, null, undefined
+console.log(Boolean(0))
+console.log(Boolean('Hello'))
+console.log(Boolean(undefined))
+console.log(Boolean(NaN))
+console.log(Boolean({}))
+
+const money = 0;
+if (money) {
+    console.log('Dont spend too much')
+} else  {
+    console.log('Get a job')
+}
