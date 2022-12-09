@@ -196,3 +196,29 @@ if (shouldDrive && !tired) {
     console.log("Sarah can drive")
 } else console.log('Smb should drive')
 */
+
+// <------------------------------Switch case
+
+const day = 'Monday';
+
+switch (day) {
+    case 'Monday':
+        console.log('Plan course structure');
+        break;
+    case 'Tuesday':
+        console.log('prepare videos');
+        break;
+    case 'Wednesday':
+    case 'Thursday':
+        console.log('write code examples');
+        break;
+    case 'Friday':
+        console.log('redord videos');
+        break;
+    case 'Saturday':
+    case 'Sunday':
+        console.log('enjoy weekend')
+        break;
+    default:
+        console.log('Enter correct day');
+}
