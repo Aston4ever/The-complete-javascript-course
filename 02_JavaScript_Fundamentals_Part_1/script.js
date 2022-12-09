@@ -175,3 +175,24 @@ if (favourite !== 23) {
     console.log('Number is not 23')
 }
 */
+
+// <------------------------------Logical operators
+/*
+const hasDriverLicence = true;
+const hasGoodVision = false;
+
+console.log(hasDriverLicence && hasGoodVision) // false
+console.log(hasDriverLicence || hasGoodVision) // true
+console.log(hasDriverLicence || !hasGoodVision) // true
+
+const shouldDrive = hasDriverLicence && hasGoodVision;
+
+if (shouldDrive) {
+    console.log("Sarah can drive")
+} else console.log('Smb should drive')
+
+const tired = true;
+if (shouldDrive && !tired) {
+    console.log("Sarah can drive")
+} else console.log('Smb should drive')
+*/
