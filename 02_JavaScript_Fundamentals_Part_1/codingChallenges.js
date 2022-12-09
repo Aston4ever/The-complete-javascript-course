@@ -33,7 +33,7 @@
 (function () {
     const scoreDolphins = (96 + 108 + 89) / 3;
     const scoreKoalas = (88 + 91 + 110) / 3;
-    console.log(scoreDolphins|0, scoreKoalas|0);
+    console.log(scoreDolphins | 0, scoreKoalas | 0);
 
     if (scoreDolphins > scoreKoalas) {
         console.log("Dolphins win")
@@ -44,4 +44,11 @@
     }
 
 
+})();
+
+(function () {
+    const bill = 275;
+    let tips = bill <= 50 && bill >= 300 ? bill * 0.15 : bill * 0.2;
+    console.log(`The bill was ${bill}, the tip was ${tips}, and the total value
+${bill + tips}`);
 })();
