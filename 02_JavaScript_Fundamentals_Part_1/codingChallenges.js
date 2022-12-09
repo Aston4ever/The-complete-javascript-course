@@ -29,3 +29,19 @@
         console.log(`John's BMI(${johnBMI}) is higher than Mark's(${markBMI})!`)
     }
 })();
+
+(function () {
+    const scoreDolphins = (96 + 108 + 89) / 3;
+    const scoreKoalas = (88 + 91 + 110) / 3;
+    console.log(scoreDolphins|0, scoreKoalas|0);
+
+    if (scoreDolphins > scoreKoalas) {
+        console.log("Dolphins win")
+    } else if (scoreDolphins < scoreKoalas) {
+        console.log("Koalas win")
+    } else if (scoreKoalas === scoreDolphins) {
+        console.log("no one wins")
+    }
+
+
+})();
