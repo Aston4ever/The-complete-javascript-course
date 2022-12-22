@@ -37,7 +37,7 @@ Lesson 30 - ✅
 --------Finish section 2✔  
  
 Lesson 31 - ✅  
-Lesson 32  
+Lesson 32 - ✅  
 Lesson 33  
 Lesson 34  
 Lesson 35  
