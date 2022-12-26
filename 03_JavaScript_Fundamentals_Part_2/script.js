@@ -11,7 +11,7 @@ if (hasDriverLicense) console.log("I can drive ^^");*/
 
 // <------------------------------Functions
 
-function logger(){
+/*function logger(){
     console.log('My name is Aston');
 }
 //calling / running / invoking
@@ -29,4 +29,21 @@ let appleJuise = fruitProcessor(5, 0);
 console.log(appleJuise);
 
 const appleOrangeJuise = fruitProcessor(2 ,6);
-console.log(appleOrangeJuise());
+console.log(appleOrangeJuise());*/
+
+// <------------------------------Functions (declaration and expression)
+//declaration
+function calcAge(birthYear) {
+    return 2023 - birthYear;
+}
+const age1 = calcAge(1989);
+console.log(age1);
+
+//expression
+const age2function = function (birthYear) {
+    return  2023 - birthYear;
+}
+const age2 = age2function(1989)
+console.log(age1, age2);
+
+// <------------------------------new
